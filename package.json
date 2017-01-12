@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-backlight",
+  "version": "0.0.1",
+  "description": "Cordova Screen Backlight Plugin",
+  "cordova": {
+    "id": "cordova-plugin-backlight",
+    "platforms": [
+      "android"
+    ]
+  },
+  "homepage": "https://github.com/mebibou/cordova-plugin-backlight",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mebibou/cordova-plugin-backlight"
+  },
+  "bugs": {
+    "url": "https://github.com/mebibou/cordova-plugin-backlight/issues"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "ecosystem:cordova"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.9.1"
+    }
+  ],
+  "author": "Guillaume Royer",
+  "license": "Apache 2.0"
+}
